@@ -1,0 +1,13 @@
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\bin\Debug\netcoreapp3.1\CourseHeranca.exe
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\bin\Debug\netcoreapp3.1\CourseHeranca.deps.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\bin\Debug\netcoreapp3.1\CourseHeranca.runtimeconfig.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\bin\Debug\netcoreapp3.1\CourseHeranca.runtimeconfig.dev.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\bin\Debug\netcoreapp3.1\CourseHeranca.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\bin\Debug\netcoreapp3.1\CourseHeranca.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\obj\Debug\netcoreapp3.1\CourseHeranca.csprojAssemblyReference.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\obj\Debug\netcoreapp3.1\CourseHeranca.AssemblyInfoInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\obj\Debug\netcoreapp3.1\CourseHeranca.AssemblyInfo.cs
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\obj\Debug\netcoreapp3.1\CourseHeranca.csproj.CoreCompileInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\obj\Debug\netcoreapp3.1\CourseHeranca.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\obj\Debug\netcoreapp3.1\CourseHeranca.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\CourseHeranca\CourseHeranca\obj\Debug\netcoreapp3.1\CourseHeranca.genruntimeconfig.cache
