@@ -24,7 +24,8 @@ namespace CourseHeranca.Entities
 
         //METODO DE SAQUE COM ALTERAÇÃO (SUBSCRITO)
 
-        public override void Withdraw(double amount)
+        public sealed override void Withdraw(double amount)
+        // A PALAVRA "sealed" SIGNIFICA QUE ESTE METODO NÃO PODE SER SUBSCRITO NOVAMENTE
         {
             base.Withdraw(amount); //REAPROVEITA A OPERAÇÃO DA SUPERCLASSE
             Balance -= 2.0;
