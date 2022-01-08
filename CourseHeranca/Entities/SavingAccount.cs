@@ -21,6 +21,14 @@ namespace CourseHeranca.Entities
         {
             Balance += Balance * InterestRate;
         }
+
+        //METODO DE SAQUE COM ALTERAÇÃO (SUBSCRITO)
+
+        public override void Withdraw(double amount)
+        {
+            base.Withdraw(amount); //REAPROVEITA A OPERAÇÃO DA SUPERCLASSE
+            Balance -= 2.0;
+        }
     }
 
   

@@ -20,9 +20,10 @@ namespace CourseHeranca.Entities
             Balance = balance;
         }
         //METODO SAQUE
-        public void Withdraw (double amount) //O METODO RECEBI A VARIAVEL QUANTIA
+        public virtual void Withdraw (double amount) //O METODO RECEBI A VARIAVEL QUANTIA
+            //A PALAVRA virtual possibilita que o metodo seja subscrito por subclasses
         {                                 //{
-            Balance -= amount; // METODO PARA SUBTRAIR A QUANTIA DO SALDO
+            Balance -= amount + 5.0; // METODO PARA SUBTRAIR A QUANTIA DO SALDO
         }
         //METODO DEPOSITO
         public void Deposit (double amount) //O METODO RECEBI A VARIAVEL QUANTIA
