@@ -30,7 +30,9 @@ namespace CourseHeranca
             //OPERADOR IS
             if (acc3 is BusinessAccount) //TESTA SE O ACC3 É UMAS INSTANCIA DO "BUSINESSACCOUNT" (NÃO É!!"
             {
-                BusinessAccount acc5 = (BusinessAccount)acc3; //CASTING DO ACC3
+                //BusinessAccount acc5 = (BusinessAccount)acc3; //CASTING DO ACC3
+                //abaixo outra maneira de fazer o casting de cima, utilizando "as"
+                BusinessAccount acc5 = acc3 as BusinessAccount;
                 acc5.Loan(200);
                 Console.WriteLine("Loan!");
             }
@@ -38,6 +40,8 @@ namespace CourseHeranca
             if (acc3 is SavingAccount) //TESTANDO SE ACC3 É UMA INSTANCIA DO "SAVINGACCOUNT"
             {
                 SavingAccount acc5 = (SavingAccount)acc3; //CASTING DO ACC3
+                //abaixo outra maneira de fazer o casting de cima, utilizando "as"
+                //SavingAccount acc5 = acc as SavingAccount;
                 acc5.UpdateBalance();
                 Console.WriteLine("Update!");
             }
